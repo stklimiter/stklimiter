@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @stklimiter
-- 👀 Right I’m interested in OCaml and Typescript type-system
-- 🌱 I’m currently learning OCaml and functional Data Structures
+
